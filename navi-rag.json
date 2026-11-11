@@ -1,0 +1,39 @@
+{
+  "format": "navi-rag/1",
+  "name": "A+ Hardware Core",
+  "description": "CompTIA A+ (Core 1 + Core 2) hardware and operating-systems study pack for CIS 113 IT Hardware Essentials and Support: motherboards, CPU and RAM, storage and power, displays and printers, laptops and mobile, Windows, and operational procedures \u2014 plus a high-frequency acronym glossary.",
+  "version": "1.0.0",
+  "documents": [
+    "documents/01-motherboards-cpu-ram.md",
+    "documents/02-storage-and-power.md",
+    "documents/03-display-peripherals-printers.md",
+    "documents/04-mobile-and-laptops.md",
+    "documents/05-windows-operating-systems.md",
+    "documents/06-operational-procedures.md",
+    "documents/07-glossary-and-acronyms.md"
+  ],
+  "index": "index.json",
+  "generatedBy": "Apex \u2014 School Series pack (hand-authored)",
+  "icon": [
+    "....................",
+    ".##################.",
+    ".#................#.",
+    ".#..############..#.",
+    ".#..#..........#..#.",
+    ".#..#.########.#..#.",
+    ".#..#.#......#.#..#.",
+    ".#..#.#.####.#.#..#.",
+    ".#..#.#.####.#.#..#.",
+    ".#..#.#......#.#..#.",
+    ".#..#.#......#.#..#.",
+    ".#..#.########.#..#.",
+    ".#..#..........#..#.",
+    ".#..############..#.",
+    ".#................#.",
+    ".#..oo....oo...o..#.",
+    ".##################.",
+    "....................",
+    "....................",
+    "...................."
+  ]
+}
